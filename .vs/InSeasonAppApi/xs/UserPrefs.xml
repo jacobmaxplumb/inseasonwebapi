@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9D1CEF26-8D8D-4160-9AA8-60126BBC7472}|Default">
+  <MonoDevelop.Ide.ItemProperties.InSeasonAppApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InSeasonAppApi/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="InSeasonAppApi/Startup.cs" Line="37" Column="62" />
+      <File FileName="InSeasonAppApi/Models/User.cs" Line="5" Column="6" />
+      <File FileName="InSeasonAppApi/Controllers/ValuesController.cs" Line="15" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InSeasonAppApi" expanded="True">
+            <Node name="InSeasonAppApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
